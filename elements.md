@@ -5,22 +5,22 @@ title: elements
 	<h3 class="major">Skills & Tools</h3>
 
 	<details>
-		<summary><strong>🧠 Languages</strong></summary>
+		<summary><strong>Languages</strong></summary>
 		<p>Python, SQL, R, JavaScript (beginner)</p>
 	</details>
 
 	<details>
-		<summary><strong>📊 Data Science & Analysis</strong></summary>
+		<summary><strong>Data Science & Analysis</strong></summary>
 		<p>Excel (Advanced), RStudio, Tableau, Streamlit, Bloomberg</p>
 	</details>
 
 	<details>
-		<summary><strong>💼 Finance</strong></summary>
+		<summary><strong>Finance</strong></summary>
 		<p>Financial modeling, operational analysis, options trading, policy design</p>
 	</details>
 
 	<details>
-		<summary><strong>🧩 Soft Skills</strong></summary>
+		<summary><strong>Soft Skills</strong></summary>
 		<p>Strategic thinking, cross-functional collaboration, research synthesis</p>
 	</details>
 
