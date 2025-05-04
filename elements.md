@@ -2,10 +2,9 @@
 title: elements
 ---
 
-<!-- Divider Image -->
-<p style="text-align: center;">
-  <img src="assets/images/divider.png" alt="Divider" style="width: 120px; margin: 1em auto;" />
-</p>
+<h2>ELEMENTS</h2>
+<p style="text-align: center;"><i class="fas fa-star" style="font-size: 24px;"></i></p>
+<h3 class="major">SKILLS & TOOLS</h3>
 
 <section>
 	<h3 class="major">Skills & Tools</h3>
