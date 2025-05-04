@@ -7,7 +7,7 @@ title: elements
 
 	<details>
 		<summary><strong>Languages</strong></summary>
-		<p>Python, SQL, R, JavaScript (beginner)</p>
+		<p>Python, SQL, R, JavaScript</p>
 	</details>
 
 	<details>
