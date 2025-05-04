@@ -1,59 +1,42 @@
-## About Me
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Michael Kostyatnikov</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="shortcut icon" type="image/png" href="assets/css/images/favicon.png">
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+		<div id="wrapper">
+			<div id="bg"></div>
+			<div id="main">
 
-I am an awesome student at Lehigh, you should hire me!
-
-<!-- Upload your own photo and change the path -->
-
-<p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/MichaelMSK326/MichaelMSK326.github.io/raw/master/images/Website Picture.png" width="50%">
-</p>
-
----
-
-## Portfolio
-
-<!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
-
-_**[Natural language processing 10-Ks to identify risks](midterm_summary)**_
-
-You can show off your midterm analysis by moving the report components and output into this file. Or...
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-_**[Regression Practice](Regression_practice)**_
-
-Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-_**[Eventual team project](https://donbowen.github.io/teamproject/)**_
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-_**[Some personal project](/pdf/sample_presentation.pdf)**_
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-## Career Objectives
-
-Write what you want. 
-
-Sell yourself!
-
----
-
-## Hobbies
-
-Maybe include a little about these, especially if they are the kinds of things that work well in interviews.
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+				<!-- Header -->
+					<header id="header">
+						<h1><img src="assets/css/images/avatar.png" alt="Avatar" class="avatar"></h1><br>
+						<h1>Hello! I'm</h1>
+                        <h2>Michael Kostyatnikov</h2>
+						<p>Nice to meet you!</p>
+                        <p>I’m a finance major at Lehigh University with experience in investment analysis, data science, and strategic consulting. My interests sit at the intersection of finance, technology, and sustainability.</p>
+                        <p>When I’m not analyzing markets or working on dashboards, I’m tutoring students in math, hitting the gym, or building personal side projects.</p>
+                        <p>Let’s connect below!</p>
+						<nav>
+							<ul>
+								<li><a href="https://www.linkedin.com/in/michaelkostyatnikov/" class="icon brands fa-linkedin"><span class="label">LinkedIn</span></a></li>
+								<li><a href="https://github.com/Michaelmsk326/" class="icon brands fa-github-square"><span class="label">Github</span></a></li>
+								<li><a href="mailto:msk326@lehigh.edu" class="icon solid fa-envelope"><span class="label">Email</span></a></li>
+							</ul>
+						</nav>
+						<p class="footer"><span class="copyright">&copy; 2025 Michael Kostyatnikov. Design: <a href="http://html5up.net">HTML5 UP</a>.</span></p>
+					</header>
+			</div>
+		</div>
+		<script>
+			window.onload = function() { document.body.classList.remove('is-preload'); }
+			window.ontouchmove = function() { return false; }
+			window.onorientationchange = function() { document.body.scrollTop = 0; }
+		</script>
+	</body>
+</html>
