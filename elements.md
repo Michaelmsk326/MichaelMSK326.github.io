@@ -25,6 +25,7 @@ title: elements
 	</details>
 
 	<ul class="actions">
-		<li><a href="assets/pdf/Michael_Kostyatnikov_Resume_2024.pdf" class="button icon fa-download">Resume</a></li>
-	</ul>
+		<li><a href="https://Michaelmsk326.github.io/assets/Michael_S_Kostyatnikov_Resume.pdf" class="button icon fa-download" target="_blank">Resume</a>
+	</ul> 
+
 </section>
