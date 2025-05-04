@@ -3,8 +3,7 @@ title: work
 image: pic02.jpg
 ---
 
-[{{ site.googleplus_url }}" class="icon fa-google-plus" target="_blank"><span class="label">Google+</span></a></li>
-			{% endif %}](https://finalprojectmichael.streamlit.app/)
+https://finalprojectmichael.streamlit.app/ 
 
 Adipiscing magna sed dolor elit. Praesent eleifend dignissim arcu, at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent urna nisi, fringila lorem et vehicula lacinia quam. Integer sollicitudin mauris nec lorem luctus ultrices.
 
