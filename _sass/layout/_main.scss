@@ -110,6 +110,6 @@
   height: 100vh;
   object-fit: cover;
   z-index: -1;
-  opacity: 0.4; // tweak for brightness
-  pointer-events: none; // ensures video doesn't block clicks
+  opacity: 0.4; // Adjust brightness of the video
+  pointer-events: none; // Ensures clicks pass through the video
 }
