@@ -3,6 +3,17 @@ title: work
 ---
 <strong>A Data-Driven Look at Chicago Neighborhoods:</strong>
 
+
+<div class="streamlit-container">
+  <iframe src="https://finalprojectmichael.streamlit.app/?embed=true" width="100%" height="600px" frameborder="0" onload="this.style.display='block'" onerror="this.style.display='none';document.getElementById('fallback').style.display='block'" style="display:none;"></iframe>
+  <div id="fallback" style="display:block;">
+    <p>The interactive visualization is currently unavailable. You can <a href="https://finalprojectmichael.streamlit.app/" target="_blank">view it directly here</a> or explore the project description below.</p>
+    <!-- If you have a screenshot, add it here -->
+    <!-- <img src="assets/images/project-screenshot.jpg" alt="Project Screenshot" width="100%"> -->
+  </div>
+</div>
+
+
 <iframe src="https://finalprojectmichael.streamlit.app/?embed=true" width="100%" height="600px" frameborder="0"></iframe>
 
 
