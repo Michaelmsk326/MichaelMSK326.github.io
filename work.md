@@ -1,6 +1,7 @@
 ---
-title: "work: A Data-Driven Look at Chicago Neighborhoods"
+title: work
 ---
+<strong>A Data-Driven Look at Chicago Neighborhoods:</strong>
 
 <iframe src="https://finalprojectmichael.streamlit.app/?embed=true" width="100%" height="600px" frameborder="0"></iframe>
 
@@ -9,4 +10,5 @@ I built this interactive site to explore how school quality, crime rates, and in
 
 It’s a way to surface patterns that often go unnoticed — and to show how data can be used not just to predict value, but to understand it.
 
+---
 <strong>Note:</strong> Due to the complexity of the dataset, ZIP code <strong>60608</strong> is recommended...
