@@ -1,5 +1,5 @@
 ---
-title: work:
+title: "work: A Data-Driven Look at Chicago Neighborhoods"
 ---
 
 <iframe src="https://finalprojectmichael.streamlit.app/?embed=true" width="100%" height="600px" frameborder="0"></iframe>
