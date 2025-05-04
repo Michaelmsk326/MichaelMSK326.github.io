@@ -1,6 +1,12 @@
 ---
 title: elements
 ---
+
+<!-- Divider Image -->
+<p style="text-align: center;">
+  <img src="assets/images/divider.png" alt="Divider" style="width: 120px; margin: 1em auto;" />
+</p>
+
 <section>
 	<h3 class="major">Skills & Tools</h3>
 
