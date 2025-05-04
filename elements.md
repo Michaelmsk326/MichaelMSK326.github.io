@@ -1,5 +1,5 @@
 ---
-title: SKILLS & TOOLS
+title: elements
 ---
 <section>
 	<h3 class="major">Skills & Tools</h3>
