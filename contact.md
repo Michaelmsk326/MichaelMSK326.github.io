@@ -10,7 +10,7 @@ title: contact
 		</div>
 		<div class="field half">
 			<label for="email">Email</label>
-			<input type="text" name="_replyto" id="email" />
+			<input type="email" name="_replyto" id="email" />
 		</div>
 		<div class="field">
 			<label for="message">Message</label>
@@ -23,6 +23,7 @@ title: contact
 	</ul>
 </form>
 <ul class="icons">
+
 
 	{% if site.twitter_url %}
 				<li><a href="{{ site.twitter_url }}" class="icon fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
