@@ -1,6 +1,6 @@
-## **Assignment 9**
+# **Assignment 9**
 
-*By: Michael Kostyatnikov*
+## *By: Michael Kostyatnikov*
 
 A customized version of the Dimension template by HTML5 UP.
 
