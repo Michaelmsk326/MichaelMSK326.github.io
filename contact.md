@@ -1,6 +1,6 @@
 ---
 title: contact
----
+--- 
 
 <form action="https://formspree.io/{{ site.email }}" method="POST">
 	<div class="fields">
