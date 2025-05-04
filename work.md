@@ -3,7 +3,8 @@ title: work
 image: pic02.jpg
 ---
 
-https://finalprojectmichael.streamlit.app/ 
+<iframe src="[https://your-streamlit-app.streamlit.app](https://finalprojectmichael.streamlit.app/)" width="100%" height="600px" frameborder="0"></iframe>
+
 
 Adipiscing magna sed dolor elit. Praesent eleifend dignissim arcu, at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent urna nisi, fringila lorem et vehicula lacinia quam. Integer sollicitudin mauris nec lorem luctus ultrices.
 
