@@ -1,6 +1,5 @@
 ---
 title: about
-image: pic03.jpg
 ---
 Hi, I’m Michael.
 
