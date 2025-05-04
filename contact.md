@@ -1,20 +1,25 @@
 ---
 title: contact
 --- 
-<form
-  action="https://formspree.io/f/xdkgejjl"
-  method="POST"
->
-  <label>
-    Your email:
-    <input type="email" name="email">
-  </label>
-  <label>
-    Your message:
-    <textarea name="message"></textarea>
-  </label>
-  <!-- your other form fields go here -->
-  <button type="submit">Send</button>
+<form action="https://formspree.io/f/xdkgejjl" method="POST">
+  <div class="fields">
+    <div class="field half first">
+      <label for="name">Name</label>
+      <input type="text" name="name" id="name" required />
+    </div>
+    <div class="field half">
+      <label for="email">Email</label>
+      <input type="email" name="email" id="email" required />
+    </div>
+    <div class="field">
+      <label for="message">Message</label>
+      <textarea name="message" id="message" rows="4" required></textarea>
+    </div>
+  </div>
+  <ul class="actions">
+    <li><input type="submit" value="Send Message" class="primary" /></li>
+    <li><input type="reset" value="Reset" /></li>
+  </ul>
 </form>
 <ul class="icons">
 
