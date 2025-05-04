@@ -1,11 +1,13 @@
 ---
 title: work
-image: pic02.jpg
 ---
+**A Data-Driven Look at Chicago Neighborhoods**
 
 <iframe src="https://finalprojectmichael.streamlit.app/?embed=true" width="100%" height="600px" frameborder="0"></iframe>
 
 
-Adipiscing magna sed dolor elit. Praesent eleifend dignissim arcu, at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent urna nisi, fringila lorem et vehicula lacinia quam. Integer sollicitudin mauris nec lorem luctus ultrices.
+I built this interactive site to explore how school quality, crime rates, and income levels shape housing prices across Chicago. Using a combination of public datasets, machine learning models, and geospatial visualizations, the platform uncovers how economic and social factors intersect at the neighborhood level.
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet feugiat tempus.
+It’s a way to surface patterns that often go unnoticed — and to show how data can be used not just to predict value, but to understand it.
+
+*Note: Due to the complexity of the dataset, ZIP code 60608 is recommended for the smoothest user experience and clearest insight into the model’s output.*
