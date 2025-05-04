@@ -54,15 +54,26 @@
 	@import 'layout/footer';
 
 .avatar {
-  width: 180px; 
-  height: 180px; 
-  object-fit: cover;
   border-radius: 50%;
-  border: 2px solid white;
-  margin: 0 auto 1em auto; 
-  display: block;
-  box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border: 5px solid rgba(255, 255, 255, 0.8);
+  position: relative;
+  z-index: 2;
 }
+
+header #header:after {
+  content: '';
+  width: 2px;
+  height: 60px;
+  background-color: rgba(255, 255, 255, 0.8);
+  position: absolute;
+  top: calc(150px + 5px); 
+  left: 50%;
+  transform: translateX(-50%);
+}
+
 
 #bg-video {
   position: fixed;
