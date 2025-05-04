@@ -2,8 +2,8 @@
 title: Dimension
 email: youremailaddress@gmail.com
 description: A fully responsive site template designed by <a href="https://html5up.net">HTML5 UP</a> and released<br />for free under the <a href="https://html5up.net/license">Creative Commons</a> license.
-baseurl: /MichaelMSK326.github.io
-url: https://michaelmsk326.github.io/
+baseurl: "" # Empty if your site is at the root domain (michaelmsk326.github.io)
+url: "https://michaelmsk326.github.io"
 author: Michael Kostyatnikov
 street_address: 1234 Somewhere Road
 city: Nashville
@@ -11,7 +11,6 @@ state: TN
 zip_code: 55555
 country: United States of America
 phone: (716) 555-5555
-
 icon: fa-diamond # Font Awesome class for your site's icon
 
 # Social settings
@@ -27,6 +26,5 @@ twitter_url: https://twitter.com/andrewbanchich
 
 # Build settings
 markdown: kramdown
-
 sass:
   style: compressed
