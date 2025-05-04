@@ -1,0 +1,35 @@
+# Site settings
+title: Michael Kostyatnikov
+description: >
+  Personal website and portfolio for Michael Kostyatnikov.
+  <br><br>
+  <a href="https://www.linkedin.com/in/mkostyatnikov/">LinkedIn</a>
+  <br>
+  <a href="/assets/resume.pdf" class="button">Resume</a>
+  <br>
+  <a href="/portfolio" class="button">Portfolio</a>
+  <br>
+  <a href="https://github.com/MichaelMSK326">GitHub</a>
+  <br>
+  <a href="https://twitter.com/YourTwitterHandle">Twitter</a>
+
+# Build settings
+markdown: kramdown
+remote_theme: andrewbanchich/dimension-jekyll-theme
+plugins:
+  - jekyll-remote-theme
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Theme-specific settings
+logo: "/images/Website Picture.png" # Your profile picture
+avatar: "/images/Website Picture.png" # Alternative reference
+
+# Social links
+social:
+  github: MichaelMSK326
+  linkedin: mkostyatnikov
+  # Add more social links as needed
+
+# Google Analytics
+# google_analytics: UA-XXXXXXXX-X
