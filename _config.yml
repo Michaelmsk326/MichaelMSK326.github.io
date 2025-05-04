@@ -22,14 +22,10 @@ plugins:
   - jekyll-seo-tag
 
 # Theme-specific settings
-logo: "/images/Website Picture.png" # Your profile picture
-avatar: "/images/Website Picture.png" # Alternative reference
+logo: "/images/Website Picture.png"
+avatar: "/images/Website Picture.png"
 
 # Social links
 social:
   github: MichaelMSK326
   linkedin: mkostyatnikov
-  # Add more social links as needed
-
-# Google Analytics
-# google_analytics: UA-XXXXXXXX-X
