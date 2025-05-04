@@ -101,15 +101,3 @@
 		}
 	}
 
-
-#bg-video {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100vw;
-  height: 100vh;
-  object-fit: cover;
-  z-index: -1;
-  opacity: 0.4; // Adjust brightness of the video
-  pointer-events: none; // Ensures clicks pass through the video
-}
