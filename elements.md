@@ -2,10 +2,6 @@
 title: elements
 ---
 
-<h2>ELEMENTS</h2>
-<p style="text-align: center;"><i class="fas fa-star" style="font-size: 24px;"></i></p>
-<h3 class="major">SKILLS & TOOLS</h3>
-
 <section>
 	<h3 class="major">Skills & Tools</h3>
 
