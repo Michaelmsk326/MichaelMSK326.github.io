@@ -108,6 +108,8 @@
   width: 100vw;
   height: 100vh;
   object-fit: cover;
-  z-index: 0; // This puts it behind #main (which is z-index: 3)
+  z-index: -1;
   pointer-events: none;
+  opacity: 0.4;
 }
+
