@@ -54,14 +54,14 @@
 	@import 'layout/footer';
 
 .avatar {
-  width: 160px;
-  height: 160px;
+  width: 180px; 
+  height: 180px; 
   object-fit: cover;
   border-radius: 50%;
   border: 2px solid white;
-  margin: 0 auto 1em auto;
+  margin: 0 auto 1em auto; 
   display: block;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
 }
 
 #bg-video {
