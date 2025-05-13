@@ -52,3 +52,43 @@
 	@import 'layout/header';
 	@import 'layout/main';
 	@import 'layout/footer';
+
+.avatar {
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border: 5px solid rgba(255, 255, 255, 0.8);
+  position: relative;
+  z-index: 2;
+}
+
+header #header:after {
+  content: '';
+  width: 2px;
+  height: 60px;
+  background-color: rgba(255, 255, 255, 0.8);
+  position: absolute;
+  top: calc(150px + 5px); 
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+
+#bg-video {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  object-fit: cover;
+  z-index: -1;
+  opacity: 0.4;
+  pointer-events: none;
+}
+
+// Override any old static background if needed
+body {
+  background: none !important;
+}
+
